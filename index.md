@@ -1,15 +1,8 @@
-## Welcome to GitHub Pages
+# PATH Update October 2017
 
-You can use the [editor on GitHub](https://github.com/joebarczyk/mipath/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## PATH Leader Refresher Training – November 15, 2017
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+The Michigan Department of Health and Human Services Arthritis Program is hosting a FREE Leader Refresher Training on November 15, 2017, 1 – 4:30 pm, in Okemos. The Leader Refresher Training applies to all versions of the program (PATH, Diabetes PATH, Chronic Pain PATH, Tomando) and reviews the important processes in the programs (brainstorming, feedback, making an action plan, paraphrasing, etc.). To request an application or to find out more, please contact Amber Matthews at matthewsa5@michigan.gov or Karen McCloskey at [Link](mccloskeyk@michigan.gov).
 
 # Header 1
 ## Header 2
